@@ -14,7 +14,10 @@ Live Medians test APP
 -  TAILWIND CSS [https://github.com/tailwindlabs/tailwindcss]
 
 
-// Feel free to contact us at info@medians.shop
 
+# Contact
+- Feel free to contact us at info@medians.shop
+
+- Follow us at Facebook page https://www.facebook.com/mediansme
 
 All credits should go to the Medians Team.
