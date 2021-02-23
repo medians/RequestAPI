@@ -9,6 +9,7 @@ Web servert API builder with live test built using
 -  TAILWIND CSS [https://github.com/tailwindlabs/tailwindcss]
 
 
+// Feel free to contact us at info@medians.shop
 
 
 All credits should go to the Medians Team.
