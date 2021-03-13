@@ -1,0 +1,63 @@
+{
+        "pagesList": [
+        
+            {
+                "title":"Login", 
+                "type":"String", 
+                "link":"Login-tab", 
+                "request_path":"",
+                "request_fields": [
+                    { 
+                        "field_name":"type", 
+                        "field_type":"text", 
+                        "field_data_type":"String", 
+                        "field_value":"login",
+                        "notes":" // API key  "
+                    },
+                    { 
+                        "field_name":"email", 
+                        "field_type":"email", 
+                        "field_data_type":"String", 
+                        "field_value":"",
+                        "notes":" // User email  "
+                    },
+                    { 
+                        "field_name":"password", 
+                        "field_type":"password", 
+                        "field_data_type":"String", 
+                        "field_value":"",
+                        "notes":" // User password  "
+                    }
+                ]
+            },
+            {
+                "title":"Get Order", 
+                "type":"String", 
+                "link":"Order-tab", 
+                "request_path":"",
+                "request_fields": [
+                    { 
+                        "field_name":"type", 
+                        "field_type":"text", 
+                        "field_data_type":"String", 
+                        "field_value":"order",
+                        "notes":" // Get order  "
+                    },
+                    { 
+                        "field_name":"orderid", 
+                        "field_type":"text", 
+                        "field_data_type":"String", 
+                        "field_value":"9145264",
+                        "notes":" // Order id  "
+                    }
+                ],
+                "response_fields": [
+                ]
+            }
+        ],
+        "response_fields":  [
+            {"key": "id", "value":"", "notes": "// Used for Frontend Testing"} ,
+            {"key": "output", "value": "", "notes": "// Object"} 
+        ]
+        
+}

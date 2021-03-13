@@ -1,0 +1,29 @@
+{
+        "pagesList": [
+        
+            {
+                "title":"Authentication", 
+                "type":"Authentication", 
+                "link":"Authentication-tab", 
+                "request_path":"auth/tokens",
+                "request_fields": [
+                    { 
+                        "field_name":"api_key", 
+                        "field_value":"ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6VXhNaUo5LmV5SnVZVzFsSWpvaWFXNXBkR2xoYkNJc0ltTnNZWE56SWpvaVRXVnlZMmhoYm5RaUxDSndjbTltYVd4bFgzQnJJam8xTWpneU1YMC5LbUFOYkloN2RQakVRWnhHcmpNdVFfUjZRMlNLVFMzZmpDMWhJSlg5MGZpTUcwc0ZSWXUxcVMtQ1RnUm1iTUNiZDBuRlJpS2poRS1XZ2k1YzdESGs3Zw=="
+                    }
+                ]
+            },
+
+            {"title":"Coupons check", "type":"checkCode", "link":"checkCode-tab"}
+        ],
+        "response_fields":  [
+            {"key": "id", "value":"", "notes": "// Used for Frontend Testing"} ,
+            {"key": "output", "value":[
+                {"key":"result", "value": null, "notes": "// Response data"},
+                {"key":"success", "value": 1, "notes": "// 0 = Failed / 1 = Success"},
+                {"key":"error", "value": 0, "notes": "// 1 = Has error / 0 = Success"},
+                {"key":"msg", "value": "", "notes": "// Text Reply ( If reply has message ) "}
+            ], "notes": "// Object"} 
+        ]
+        
+}
