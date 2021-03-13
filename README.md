@@ -10,6 +10,7 @@ Live Medians test APP
 # Quick start
 - Edit ( data.json ) with your request data 
 - Edit ( api_assets/app.js ) with your URL  
+- Run your index.html file at your browser
 
 
 
