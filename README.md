@@ -7,6 +7,13 @@ Live Medians test APP
 [https://mediansme.com/tools/api/]
 
 
+# Quick start
+- Edit ( data.json ) with your request data 
+- Edit ( api_assets/app.js ) with your URL  
+
+
+
+
 # Thanks to:
 
 -  VUE.JS [https://github.com/vuejs/vue] 
