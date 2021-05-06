@@ -4,7 +4,7 @@ Web servert API builder with live test built using
 
 # Demo
 Live Medians test APP 
-[https://medians.shop/projects/tools/api/index.html/]
+[https://medians.shop/projects/tools/api/index.html]
 
 
 # Quick start
